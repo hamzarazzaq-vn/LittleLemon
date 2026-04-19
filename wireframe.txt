@@ -1,0 +1,3 @@
+// Placeholder for wireframe image
+// Please replace this file with your actual wireframe.png or wireframe.jpg
+// The wireframe should show the app's UI layout with grid lines
